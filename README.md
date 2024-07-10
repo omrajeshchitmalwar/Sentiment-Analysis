@@ -30,7 +30,7 @@ Feb 2024 - Feb 2024
 ◯ Metrics such as precision, recall, and F1-score indicate how well the model classifies tweets into their respective sentiment categories.<br>
 <br> 
 <br>  
-💼 Skills Utilized<br>
+<h3>💼 Skills Utilized</h3>
 + Microsoft Azure ☁️<br>
 + Microsoft Azure Machine Learning 🤖<br>
 + Dashboard Metrics 📊<br>
