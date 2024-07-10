@@ -1,10 +1,9 @@
 <H1>🐦 Sentiment Analysis </H1>
-<br>
+
+![image](https://github.com/omrajeshchitmalwar/Sentiment-Analysis/assets/92293388/55af13b7-ea46-4598-8e95-04a0138758b1)
 
 The Sentiment Analysis project on a Twitter dataset is an innovative application of data analysis and machine learning techniques to derive insights from user-generated content. Powered by Azure machine learning, this project aims to analyze sentiment from tweets, providing valuable information about public opinion, brand perception, or market trends.
 <br>
-<br>
-![Sentiment - 2](https://github.com/omrajeshchitmalwar/Sentiment-Analysis/assets/92293388/8909281a-e8c2-45cb-99e8-9df1080decf0)
 
 <br>
 Give this repository a ⭐ if you liked it, since it took me time to analyze and design this.<br>
@@ -27,8 +26,9 @@ Feb 2024 - Feb 2024
 ◯ Visualizations may show the percentage of positive, negative, and neutral tweets over time or compare sentiment across different user demographics or topics.<br>
 <h4>📈 Performance Metrics</h4>
 ◯ Includes performance metrics or KPIs to evaluate the accuracy and effectiveness of the sentiment analysis model.<br>
-◯ Metrics such as precision, recall, and F1-score indicate how well the model classifies tweets into their respective sentiment categories.<br>
-<br> 
+◯ Metrics such as precision, recall, and F1-score indicate how well the model classifies tweets into their respective sentiment categories.<br><br>
+  
+![Sentiment - 2](https://github.com/omrajeshchitmalwar/Sentiment-Analysis/assets/92293388/8909281a-e8c2-45cb-99e8-9df1080decf0)
 <br>  
 <h3>💼 Skills Utilized</h3>
 + Microsoft Azure ☁️<br>
